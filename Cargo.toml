@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["assignment-1","audio-player","most-water","notification-system","playground","sample","shape_system"]
